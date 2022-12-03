@@ -39,12 +39,15 @@
 
 .button3
 {
-    -fx-background-color : #4227b8;
+    -fx-background-color :  linear-gradient(to top right, #385487, #73b2ba);
     -fx-background-radius :  0 0 0 0;
 }
 .button3:hover
 {
-    -fx-background-color : #524A7B ;
+    /* -fx-background-color : #524A7B ; */
+    -fx-opacity: 0.7;
+    -fx-cursor: HAND;
+    
 }
 .button3:pressed
 {

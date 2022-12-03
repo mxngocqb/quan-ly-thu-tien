@@ -4,6 +4,10 @@
 	-fx-background-color : #e8e3f3;
 }
 
+.main-bg {
+    -fx-background-image: url('file:/D:/workspace/quan-ly-thu-tien/src/views/milk.jpeg');
+    -fx-background-size: cover;
+}
   
 .button1
 {
